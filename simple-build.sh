@@ -1,0 +1,3 @@
+#
+
+../meson.sh  -Ddocumentation=false "$@"
