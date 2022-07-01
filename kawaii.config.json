@@ -1,0 +1,7 @@
+{
+    "deps":[
+        "libffi",
+        "libxml2",
+        "libexpat"
+    ]
+}
